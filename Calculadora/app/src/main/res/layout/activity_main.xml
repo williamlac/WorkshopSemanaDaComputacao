@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.devmachine.calculadora.MainActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Valor Um"
+        android:inputType="number"
+        android:id="@+id/valorUm"
+        android:layout_alignParentTop="true"
+        android:layout_margin="5dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Valor Dois"
+        android:inputType="number"
+        android:id="@+id/valorDois"
+        android:layout_below="@+id/valorUm"
+        android:layout_margin="5dp"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/plusButton"
+        android:text="+"
+        android:layout_below="@+id/valorDois"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/minusButton"
+        android:text="-"
+        android:layout_below="@+id/valorDois"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="25dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timesButton"
+        android:text="x"
+        android:layout_below="@+id/plusButton"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/divideButton"
+        android:text="/"
+        android:layout_below="@+id/minusButton"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="25dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/resultText"
+        android:layout_below="@+id/timesButton"
+        android:textSize="50dp"
+        android:layout_margin="15dp"
+        android:gravity="center"
+        android:text="0"
+        />
+</RelativeLayout>
