@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">FatosComCategorias</string>
+
+    <string-array name="tecnologia_array">
+        <item>No filme E.T. O Extraterrestre, o som dos passos do ET foi feito com gelatina.</item>
+        <item>Senhor Cabeça de Batata (do filme \"Toy Story\") foi o primeiro brinquedo a ter uma propaganda na TV.</item>
+        <item>Se você gritar por 8 anos, 7 meses e 6 dias, você produzir energia suficiente para esquentar um copo de café.</item>
+        <item>A Terra fica 100 toneladas mais pesada a cada dia devido à queda de pó espacial.</item>
+        <item>Super-Homem é o herói mais retratado na TV.</item>
+        <item>A porcentagem de pessoas que sonham em preto e branco diminuiu depois da popularização da TV.</item>
+        <item>Os olhos de uma pessoa podem detectar 10 milhões de tonalidades de cores diferentes.</item>
+        <item>Era preciso ficar 8 horas imóvel para ser fotografado pela primeira câmera fotográfica inventada.</item>
+        <item>Barofobia é o medo da gravidade.</item>
+        <item>Cientistas descobriram álcool no espaço.</item>
+        <item>A velocidade de rotação da Terra é de 1674,4 km/h.</item>
+        <item>A casa de Bill Gates foi desenhada em um computador Apple.</item>
+    </string-array>
+    <string-array name="brasil_array">
+        <item>O Rio de Janeiro já foi a capital de Portugal, o que faz da cidade a primeira e única capital européia fora da própria Europa.</item>
+        <item>A maior comunidade japonesa fora do Japão está no Brasil.</item>
+        <item>O Brasil tem o segundo maior número de aeroportos do mundo (2.498), atrás apenas dos Estados Unidos.</item>
+        <item>O Brasil é um dos únicos países do mundo que oferece a cirurgia de mudança de sexo gratuitamente, pelo SUS, desde 2008.</item>
+        <item>Segundo uma pesquisa da USP de 2009, 19,3\%% de todos os homens da cidade do Rio de Janeiro são gays ou bissexuais.</item>
+        <item>Nas prisões federais no Brasil, os presos podem reduzir até 4 dias no tempo de sentença a cada livro que lerem, com um máximo de 12 obras por ano.</item>
+        <item>Na prisão de Santa Rita do Sapucaí, no sul de Minas, os detentos podem pedalar em bicicleta fixas, que geram energia para a cidade. Em troca, a cada 3 dias pedalando, a pena é reduzida em 1 dia.</item>
+        <item>Das 12 cidades-sede da Copa de 2014, 7 figuravam no ranking das 50 cidades mais violentas do mundo.</item>
+        <item>Mais de 90\%% dos carros novos produzidos no Brasil usam etanol. É o único país do mundo onde o combustível é oferecido em 100\%% dos postos.</item>
+        <item>Um porta-aviões da Marinha chamado Minas Gerais já foi colocado à venda no eBay, mas o anúncio foi removido por ferir as políticas do site.</item>
+        <item>Com mais de 123 milhões de fiéis, o Brasil ainda é o país com o maior número de católicos do mundo, à frente do México, com 96,4 milhões.</item>
+        <item>O Brasil foi o primeiro país do mundo a banir as câmaras de bronzeamento.</item>
+        <item>O Brasil importou 4,8 milhões de escravos da África, quase metade do total de escravos de todo continente americano. Só na cidade do Rio de Janeiro foram cerca de 2 milhões.</item>
+        <item>O povo indígena Bororo é o único grupo do mundo onde todas as pessoas têm sangue do tipo O.</item>
+    </string-array>
+    <string-array name="animais_array">
+        <item>As lontras dormem de mãos dadas para não se perderem na corrente de água</item>
+        <item>Os esquilos plantam milhares de árvores ao se esquecer das sementes que colheram</item>
+        <item>Alguns filhotes de cachorros machos deixam as fêmeas ganhar as brincadeiras, mesmo sendo fisicamente mais fortes</item>
+        <item>Os pinguins do gênero Pygoscellis propõem o casamento às fêmeas dando uma pedrinha</item>
+        <item>Um pinguim norueguês foi nomeado cavalheiro real</item>
+        <item>Na Suécia existe uma competição de saltos de coelhos</item>
+        <item>Os golfinhos dão nomes para cada indivíduo do mesmo grupo</item>
+        <item>Estudo científico pesquisou se músicas faziam com que as vacas produzissem mais leite. O resultado foi positivo, sendo que a música de maior sucesso foi Everybody Hurts do REM</item>
+        <item>Macacos da neve do Japão fazem bolinhas de neve simplesmente por diversão</item>
+        <item>Cavalos marinhos formam pares para o resto da vida e quando nadam juntos não se largam, se segurando pela cauda</item>
+        <item>Os pintinhos podem se comunicar com seus irmãos e sua mãe mesmo dentro dos ovos</item>
+        <item>As marcas no nariz de cães são como as digitais para os humanos, pois cada animal tem o seu próprio padrão</item>
+        <item>Esquilos adotam bebês esquilos abandonados</item>
+    </string-array>
+    <string-array name="pokemon_array">
+        <item>Em 2008, cientistas japoneses descobriram uma proteína e nomearam ela de Pikachurin, porque funcionou muito bem com a eletricidade.</item>
+        <item>Munna é referenciado em Pokemon Red e Blue de uma treinadora Pokémon do lado de fora do túnel da rocha (Rock Tunnel); ele também é referenciada em Ruby / Sapphire / Emerald.</item>
+        <item>O primeiro Kadabra na verdade era um garoto com habilidades psíquicas que acordou uma manhã transformado.</item>
+        <item>Rumores sugerem que Genesect é realmente um Kabutops modificado.</item>
+        <item>Há rumores de que a música na Torre Pokémon em Lavender Town induziu jovens de todo o mundo para cometer suicídio.</item>
+        <item> Hypno, um Pokémon com a habilidade de hipnotizar seus adversários, foi conhecido por sequestrar crianças.</item>
+        <item>Banette era uma boneca de pelúcia que ganhou vida depois de ser abandonada por sua dona, que tem como principal objetivo agora buscar vingança do seu dono.</item>
+        <item>Embora provado ser falso, acreditava-se que os jogadores poderiam coletar uma Pokébola contendo o lendário Pokémon Mew debaixo de um caminhão no porto em Vermillion City nas versões Red e Blue.</item>
+        <item> Documentos dentro do Pokémon Mansion em Cinnabar Island mostram que a ilha Faraway foi concebida muito antes de sua implementação real.</item>
+        <item> A música tema para Pokemon Ruby, Sapphire e Emerald foi remixada e deixada no código do jogo para a versão Platinum.</item>
+        <item>Bonsly é o primeiro Pokemon da Geração Quatro, que pode ser capturado e usado em batalha em uma geração antes de ser introduzido corretamente.</item>
+        <item> No original Pokemon Red and Blue, era possível pescar em qualquer uma das grandes estátuas dentro de ginásios Pokemon.</item>
+    </string-array>
+</resources>

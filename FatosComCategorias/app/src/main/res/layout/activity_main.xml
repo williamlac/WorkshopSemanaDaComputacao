@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.williamlacerda.fatoscomcategorias.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escolha sua Categoria!"
+        android:textSize="30sp"
+        android:textAlignment="center"
+        android:layout_margin="15sp"
+        android:id="@+id/textView"/>
+
+    <Button
+        android:id="@+id/brasilButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp"
+        android:text="Brasil"/>
+
+    <Button
+        android:id="@+id/tecnologiaButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/brasilButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Tecnologia"/>
+
+    <Button
+        android:id="@+id/animaisButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tecnologiaButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Animais"/>
+
+    <Button
+        android:id="@+id/pokemonButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/animaisButton"
+        android:layout_below="@+id/animaisButton"
+        android:layout_marginTop="20dp"
+        android:text="Pokemon"/>
+
+
+</RelativeLayout>
